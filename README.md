@@ -1,4 +1,5 @@
-### Hi there 👋
+# [![eduarddotgg](https://raw.githubusercontent.com/eduarddotgg/eduarddotgg/main/images/cover.png)](https://eduard.gg)
+
 
 <!--
 **eduarddotgg/eduarddotgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
